@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm mohanvaidya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanvaidya&label=Profile%20views&color=0e75b6&style=flat" alt="mohanvaidya" /> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohanvaidya)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=mohanvaidya)](https://github.com/ryo-ma/github-profile-trophy)" alt="mohanvaidya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/im_mohan18" target="blank"><img src="https://img.shields.io/twitter/follow/im_mohan18?logo=twitter&style=for-the-badge" alt="im_mohan18" /></a> </p>
