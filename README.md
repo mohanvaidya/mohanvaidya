@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **snaptravel**
 
-- 🌱 I’m currently learning **ReactNative and Flutter**
+- 🌱 I’m currently learning **React and flutter**
 
 - 👯 I’m looking to collaborate on **open source**
 
