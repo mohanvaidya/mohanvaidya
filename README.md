@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/im_mohan18" target="blank"><img src="https://img.shields.io/twitter/follow/im_mohan18?logo=twitter&style=for-the-badge" alt="im_mohan18" /></a> </p>
 
-- 🔭 I’m currently working on **snaptravel**
+- 🔭 I’m currently working on **NMS**
 
-- 🌱 I’m currently learning **React and flutter**
+- 🌱 I’m currently learning **React and Spingboot**
 
 - 👯 I’m looking to collaborate on **open source**
 
