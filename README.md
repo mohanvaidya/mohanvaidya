@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **NMS**
 
-- 🌱 I’m currently learning **React and Spingboot**
+- 🌱 I’m currently learning **React and Springboot**
 
 - 👯 I’m looking to collaborate on **open source**
 
